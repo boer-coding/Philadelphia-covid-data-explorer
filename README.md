@@ -30,16 +30,16 @@ The data sources include:
    git clone https://github.com/boer-coding/Philadelphia-covid-data-explorer.git
    cd Philadelphia-covid-data-explorer
 
-2. **Unzip data files:**:
- ```bash
+2. **Unzip data files**:
+   ```bash
   unzip data.zip -d ./data
 
-3. **Run the application:**:
- ```bash
-  java -jar Philadelphia-Covid.jar --population=data/population.csv --log=elog.txt --covid=data/covid_data.csv --properties=data/properties.csv
+3. **Run the application**:
+   ```bash
+java -jar Philadelphia-Covid.jar --population=data/population.csv --log=elog.txt --covid=data/covid_data.csv --properties=data/properties.csv
 
 
-3. **View logs:**:
- ```bash
+3. **View logs**:
+   ```bash
   cat elog.txt
 
