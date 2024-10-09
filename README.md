@@ -6,9 +6,13 @@
 The **Philadelphia Covid Data Explorer** analyzes data from the **OpenDataPhilly portal** and the **US Census Bureau** to provide insights into the COVID-19 pandemic, property assessments, and population statistics for Philadelphia. The tool gives researchers, government officials, and the public a better understanding of the city's demographics and real estate dynamics.
 
 The data sources include:
-- **COVID-19 data** from the Philadelphia Department of Public Health.
-- **Property data** from the Philadelphia Office of Property Assessment.
-- **2020 population data** for Philadelphia ZIP Codes from the US Census Bureau.
+- **COVID-19 Data**: Information sourced from the Philadelphia Department of Public Health.  
+  [Philadelphia Department of Public Health COVID-19 Data](https://www.phila.gov/programs/coronavirus/)
+- **Property Data**: Information obtained from the Philadelphia Office of Property Assessment.  
+  [Philadelphia Office of Property Assessment](https://www.phila.gov/departments/office-of-property-assessment/)
+- **2020 Population Data**: Data for Philadelphia ZIP Codes from the US Census Bureau.  
+  [US Census Bureau - Philadelphia ZIP Code Data](https://www.census.gov/quickfacts/fact/table/philadelphiacitypennsylvania/PST045221)
+
 
 ## Features
 - Display available actions.
