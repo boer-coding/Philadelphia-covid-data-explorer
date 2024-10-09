@@ -32,14 +32,14 @@ The data sources include:
 
 2. **Unzip data files**:
    ```bash
-  unzip data.zip -d ./data
+   unzip data.zip -d ./data
 
 3. **Run the application**:
    ```bash
-java -jar Philadelphia-Covid.jar --population=data/population.csv --log=elog.txt --covid=data/covid_data.csv --properties=data/properties.csv
+   java -jar Philadelphia-Covid.jar --population=data/population.csv --log=elog.txt --covid=data/covid_data.csv --properties=data/properties.csv
 
 
 3. **View logs**:
    ```bash
-  cat elog.txt
+   cat elog.txt
 
