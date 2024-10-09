@@ -7,10 +7,10 @@ The **Philadelphia Covid Data Explorer** analyzes data from the **OpenDataPhilly
 
 The data sources include:
 - **COVID-19 Data**: Information sourced from the Philadelphia Department of Public Health.  
-  [Philadelphia Department of Public Health COVID-19 Data](https://www.phila.gov/programs/coronavirus/)
+  [Philadelphia Department of Public Health COVID-19 Data](https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/testing/testing-data/)
 - **Property Data**: Information obtained from the Philadelphia Office of Property Assessment.  
-  [Philadelphia Office of Property Assessment](https://www.phila.gov/departments/office-of-property-assessment/)
-- **2020 Population Data**: Data for Philadelphia ZIP Codes from the US Census Bureau.  
+  [Philadelphia Office of Property Assessment](https://opendataphilly.org/datasets/philadelphia-properties-and-assessment-history/)
+- **2023 Population Data**: Data for Philadelphia ZIP Codes from the US Census Bureau.  
   [US Census Bureau - Philadelphia ZIP Code Data](https://www.census.gov/quickfacts/fact/table/philadelphiacitypennsylvania/PST045221)
 
 
